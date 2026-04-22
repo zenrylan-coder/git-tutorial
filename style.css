@@ -33,7 +33,7 @@ body {
 
 .header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    color: #fff;
+    color: #ffffff;
     padding: 30px 28px 24px;
     text-align: center;
 }
@@ -66,7 +66,7 @@ body {
 }
 
 #todoInput:focus {
-    border-color: #667eea;
+    border-color: #ea6685;
     box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.15);
 }
 
@@ -75,7 +75,7 @@ body {
     font-size: 15px;
     font-weight: 500;
     color: #fff;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #ea6696 0%, #764ba2 100%);
     border: none;
     border-radius: 10px;
     cursor: pointer;
